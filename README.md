@@ -3,13 +3,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jung0115&show_icons=true&locale=en&layout=compact" alt="jung0115" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jung0115&show_icons=true&locale=en" alt="jung0115" /></p>
 
+<br/>
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 </div>
 
-<br/>
 <h2 align="left">👩🏻‍💻 Languages and Tools</h2>
 
 <h3 align="left">✅ Available</h3>
