@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=580091&height=200&section=header&text=🧠%20App%20Developer%20JeongMi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=66)
 
-<div align=right>
+<div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
