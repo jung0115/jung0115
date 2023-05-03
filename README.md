@@ -3,6 +3,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jung0115&show_icons=true&locale=en&layout=compact" alt="jung0115" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jung0115&show_icons=true&locale=en" alt="jung0115" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/>
 <div align=center>
   
