@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=580091&height=200&section=header&text=🧠%20App%20Developer%20JeongMi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=66)
+![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=200&section=header&text=🍀%20App%20Developer%20JeongMi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=66)
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jung0115&show_icons=true&locale=en&layout=compact" alt="jung0115" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jung0115&show_icons=true&locale=en" alt="jung0115" /></p>-->
