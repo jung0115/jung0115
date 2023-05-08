@@ -4,7 +4,7 @@ from datetime import datetime
 
 # 복사본 저장할 폴더 경로
 year_and_month = datetime.today().year + "." + datetime.today().month
-day = datetime.today().year + "." + datetime.today().month + "." datetime.today().day
+day = datetime.today().year + "." + datetime.today().month + "." + datetime.today().day
 
 save_root_folder_path = "../pastRecords"
 save_month_folder_path = year_and_month
