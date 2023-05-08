@@ -19,7 +19,6 @@ jobs:
       - name: Install dependencies # 1) 스크립트에 필요한 dependency 설치
         run: |
           python -m pip install --upgrade pip
-          pip install python-leetcode 
       - name: Run save-readme.py # 2) save-readme.py 실행
         working-directory: script
         run: |
