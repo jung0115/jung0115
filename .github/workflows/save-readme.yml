@@ -32,5 +32,5 @@ jobs:
           git commit -m "save README.md" # 커밋 메시지
       - name: Push changes # 4) main에 푸시
         run: |
-          git push origin main
+          git push
     
