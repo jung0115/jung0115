@@ -3,12 +3,15 @@ import shutil
 from datetime import datetime
 
 # 복사본 저장할 폴더 경로
-year_and_month = datetime.today().year + "." + datetime.today().month
-day = datetime.today().year + "." + datetime.today().month + "." + datetime.today().day
+year = str(datetime.today().year)
+month = str(datetime.today().month)
+day = str(datetime.today().day)
+year_and_month = year + "." + month
+date = year + "." + month + "." + day
 
 save_root_folder_path = "../pastRecords"
 save_month_folder_path = year_and_month
-save_day_folder_path = day
+save_day_folder_path = date
 save_folder_path = save_root_folder_path + "/" + save_month_folder_path + "/" + save_day_folder_path
 
 # 폴더 없으면 생성
