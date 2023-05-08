@@ -1,4 +1,4 @@
-name: Waka Readme Save
+name: Save Waka Readme
 
 on:
   schedule:
