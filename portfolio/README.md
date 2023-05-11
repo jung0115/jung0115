@@ -1,7 +1,7 @@
 # 👩🏻‍💻 JeongMi's Projects
-- [**2021**](#in-2021)  
-- [**2022**](#2022)  
-- [**2023**](#2023)  
+- [**2021**](https://github.com/jung0115/jung0115/blob/main/portfolio/README.md#2021)  
+- [**2022**](https://github.com/jung0115/jung0115/blob/main/portfolio/README.md#2022)  
+- [**2023**](https://github.com/jung0115/jung0115/blob/main/portfolio/README.md#2023)  
 ###### (시작 날짜 기준 연도)
 
 ---
@@ -74,7 +74,7 @@
 <br/>
   
 ---
-## in 2021
+## 2021
 - [작심며칠](https://github.com/13wjdgk/jsmc01)  
 ❓ 플래너 앱  
 👩🏻‍💻 App: React Native, JavaScript  
