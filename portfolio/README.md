@@ -1,7 +1,7 @@
 # 👩🏻‍💻 JeongMi's Projects
-- [**2021**](#%EF%B8%8F-2021)  
-- [**2022**](#-2022)  
-- [**2023**](#-2023)  
+- [**2021**](https://github.com/jung0115/jung0115/tree/main/portfolio#%EF%B8%8F-2021)  
+- [**2022**](https://github.com/jung0115/jung0115/tree/main/portfolio#-2022)  
+- [**2023**](https://github.com/jung0115/jung0115/blob/main/portfolio/README.md#-2023)  
 ###### (시작 날짜 기준 연도)
 
 ---
