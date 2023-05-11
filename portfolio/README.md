@@ -1,12 +1,12 @@
 # 👩🏻‍💻 JeongMi's Projects
-- [**2021**](README.md#%EF%B8%8F-2021)  
-- [**2022**](README.md#-2022)  
-- [**2023**](README.md#-2023)  
+- [**2021**](README.md#2021)  
+- [**2022**](README.md#2022)  
+- [**2023**](README.md#2023)  
 ###### (시작 날짜 기준 연도)
 
 ---
 
-## 💛 2023
+## 2023
 - ✨ [받장](https://github.com/EnoughKK/UMC_badjang_Android)  
 ❓ 장학금 및 지원금 조회 플랫폼  
 👩🏻‍💻 App: Android Studio, Kotlin  
@@ -30,7 +30,7 @@
 <br/>
 
 ---
-## 🧡 2022
+## 2022
 - 🍀 [Java Coding Study](https://github.com/jung0115/heo-goo-joe-0306)  
 ❓ Java 코딩 스터디  
 👩🏻‍💻 Study: Java in BaekJoon, Programmers  
@@ -74,7 +74,7 @@
 <br/>
   
 ---
-## ❤️ 2021
+## 2021
 - [작심며칠](https://github.com/13wjdgk/jsmc01)  
 ❓ 플래너 앱  
 👩🏻‍💻 App: React Native, JavaScript  
