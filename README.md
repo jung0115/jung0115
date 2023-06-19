@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=200&section=header&text=🍀%20Android%20Developer&desc=JeongMi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&descSize=25&descAlignY=52)
 
-<div align="center"> 
+<div align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="android" height="26"/> </a> <!-- 안드로이드 -->
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" alt="kotlin" height="26"/> </a> <!-- Kotlin -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" height="26"/> </a> <!-- Java -->
@@ -15,11 +15,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="26"/> </a> <!-- Git -->
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="github" height="26"/> </a> <!-- Github -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="26"/> </a> <!-- Figma -->
-</div>
 
-<p align="center">➖</p>
+<br/>
 
-<div align="center">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="26"/> </a> <!-- Flutter -->
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" height="26"/> </a> <!-- Dart -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js" alt="nodejs" height="26"/> </a> <!-- Node.js -->
@@ -31,8 +29,13 @@
 </div>
 <!--https://simpleicons.org/-->
 
-<br/><br/>
+<br/>
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+<br/><br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jung0115&show_icons=true&locale=en&layout=compact" alt="jung0115" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jung0115&show_icons=true&locale=en" alt="jung0115" /></p>
