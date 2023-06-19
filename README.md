@@ -21,6 +21,8 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="26"/> </a> <!-- Flutter -->
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" height="26"/> </a> <!-- Dart -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js" alt="nodejs" height="26"/> </a> <!-- Node.js -->
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs" alt="Three.js" height="26"/> </a> <!-- Three.js -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="dart" height="26"/> </a> <!-- YOLO -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="26"/> </a> <!-- MySQL -->
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" alt="mariadb" height="26"/> </a> <!-- MariaDB -->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" height="26"/> </a> <!-- OpenCV -->
