@@ -37,7 +37,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white" alt="python" height="23"/> </a> <!-- Python -->
 
 <h6>[ Etc. ]</h6> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" height="23"/> </a> <!-- VS code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" height="23"/> </a> <!-- VS code -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" height="23"/> </a> <!-- C언어 -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="23"/> </a> <!-- Git -->
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="github" height="23"/> </a> <!-- Github -->
