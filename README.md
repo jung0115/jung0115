@@ -57,6 +57,7 @@
 ## 🏆 Award
 - 2020 GNU 창의동아리 **우수상**
 - 2023 지식재산-빅데이터 경진대회 **우수상**
-- 2023 4th NE(O)RDINARY 해커톤 **최우수상**
+- 2023 4th NE(O)RDINARY 해커톤 **최우수상(2위)**
+- 2023 HGU DREAMLAND 해커톤 **장려상(5위)**
 
 <!--https://simpleicons.org/-->
