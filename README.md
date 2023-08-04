@@ -8,6 +8,7 @@
 
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115&count_bg=%233DDC84&title_bg=%238DA497&icon=icloud.svg&icon_color=%23ECECEC&title=jmi&edge_flat=false"/></a>
+<a href="https://wakatime.com/@e4fae065-b841-4d46-aa62-c4596ce276b8"><img src="https://wakatime.com/badge/user/e4fae065-b841-4d46-aa62-c4596ce276b8.svg" alt="Total time coded since May 4 2023" /></a>
 </div>
 
 ---
