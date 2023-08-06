@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Android+/+Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Android%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
 ## ⭐ Joe JeongMi
 ```
@@ -20,8 +20,8 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" alt="kotlin" height="24"/> </a> <!-- Kotlin -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" height="24"/> </a> <!-- Java -->
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" height="24"/> </a> <!--React -->
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react_native-282C34?style=for-the-badge&logo=react&logoColor=#61DAFB" alt="reactnative" height="24"/> </a> <!-- ReactNative -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" height="24"/> </a> <!--React -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="24"/> </a> <!-- JavaScript -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5" height="24"/> </a> <!-- HTML -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3" alt="css3" height="24"/> </a> <!-- CSS -->
