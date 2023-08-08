@@ -25,7 +25,16 @@
 - [똑똑한글](https://github.com/jung0115/Thock-Thock-Hangeul)  
 ❓ AI 기반 놀이식 유아 교육 앱  
 👩🏻‍💻 App: Android Studio, Java, YOLO  
-📅 2023.03 ~  
+📅 2023.03 ~
+
+- IDear
+- 오다르
+- RE:CO
+- 소퐁소폼
+- 이루다
+- Dream Quest
+- 손안전
+- 한림대x강원대 감자톤 주식 페이지
 
 <br/>
 
