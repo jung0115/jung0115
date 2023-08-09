@@ -53,13 +53,13 @@
 - 2022.11 ~ 2023.01 - [개발새발](https://github.com/ddwwon/Gaebal_Saebal_AOS_Ver.2) _ 개발자를 위한 기록 앱 | AOS(Kotlin) ✅
 - 2023.01 ~ 2023.02 - [받장](https://github.com/EnoughKK/UMC_badjang_Android) _ 장학금 및 지원금 조회 플랫폼 | AOS(Kotlin)
 - 2023.01 ~ 2023.06 - Linkive _ 나만의 링크 저장 플랫폼 | [AOS(Kotlin)](https://github.com/jung0115/Linkive_AOS), [React.js](https://github.com/charBS0701/linkive-react)
-- 2023.06 ~ 2023.06 - [IDear](https://github.com/Nbti/IDear_AOS) | Chat GPT가 귀찮은 글을 대신 작성해주는 앱 | AOS(Kotlin) 🏆
-- 2023.06 ~ ing - [오다르](https://github.com/O-dar/O-dar-Node) | 시니어 맞춤 구인구직 웹 서비스 | Node.js
-- 2023.07 ~ 2023.07 - [RE:CO](https://github.com/Re-Co-umc/RECO_AOS) | 리필리테이션 지도 앱 | AOS(Kotlin)
-- 2023.07 ~ ing - 소퐁소폼 | 소품샵 지도 앱 | [AOS(Kotlin)](https://github.com/HeoJoe/so-pong-so-pong), Node.js
-- 2023.07 ~ 2023.08 - [이루다](https://github.com/womentech-hackathon/Womentech_AOS) | 중장년 재취업 목표 달성 도우미 앱 | AOS(Kotlin) 🏆
-- 2023.07 ~ 2023.07 - [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) | 우울감을 느끼는 사람에게 활동을 제안하는 웹 | React.js 🏆
-- 2023.07 ~ 2023.08 - [손안전](https://github.com/SWF2023-BAB) | 전기세 민영화의 혼란을 최소화 해줄 수 있는 웹 서비스 | React.js
+- 2023.06 ~ 2023.06 - [IDear](https://github.com/Nbti/IDear_AOS) _ Chat GPT가 귀찮은 글을 대신 작성해주는 앱 | AOS(Kotlin) 🏆
+- 2023.06 ~ ing - [오다르](https://github.com/O-dar/O-dar-Node) _ 시니어 맞춤 구인구직 웹 서비스 | Node.js
+- 2023.07 ~ 2023.07 - [RE:CO](https://github.com/Re-Co-umc/RECO_AOS) _ 리필리테이션 지도 앱 | AOS(Kotlin)
+- 2023.07 ~ ing - 소퐁소폼 _ 소품샵 지도 앱 | [AOS(Kotlin)](https://github.com/HeoJoe/so-pong-so-pong), Node.js
+- 2023.07 ~ 2023.08 - [이루다](https://github.com/womentech-hackathon/Womentech_AOS) _ 중장년 재취업 목표 달성 도우미 앱 | AOS(Kotlin) 🏆
+- 2023.07 ~ 2023.07 - [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) _ 우울감을 느끼는 사람에게 활동을 제안하는 웹 | React.js 🏆
+- 2023.07 ~ 2023.08 - [손안전](https://github.com/SWF2023-BAB) _ 전기세 민영화의 혼란을 최소화 해줄 수 있는 웹 서비스 | React.js
 - 2023.08 ~ ing - [한림대x강원대 멋쟁이사자처럼 연합해커톤(감자톤) 주식 페이지](https://github.com/jung0115/Potato-thon-game_FRONT) | React.js
 
 #### 🔥 Experience
