@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Android%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
-## ⭐ Joe JeongMi
+### ⭐ Joe JeongMi
 ```
 🏫 Gyeongsang National University, Computer Science & Engineering | 2020.03 ~
 🥼 Gyeongsang National University, AI Laboratory | 2021.03 ~ 2022.06
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <div align="left">
  
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="android" height="24"/> </a> <!-- 안드로이드 -->
@@ -48,7 +48,7 @@
 
 </div>
 
-## 💻 Project (출시: ✅, 수상: 🏆)  
+### 💻 Project (출시: ✅, 수상: 🏆)  
 - 2022.04 ~ 2022.11 - [놀다가](https://github.com/yahoo557/bibimbap) _ 3D 가상 공간 블로그 | WebGL, Three.js
 - 2022.11 ~ 2023.01 - [개발새발](https://github.com/ddwwon/Gaebal_Saebal_AOS_Ver.2) _ 개발자를 위한 기록 앱 | AOS(Kotlin) ✅
 - 2023.01 ~ 2023.02 - [받장](https://github.com/EnoughKK/UMC_badjang_Android) _ 장학금 및 지원금 조회 플랫폼 | AOS(Kotlin)
@@ -62,14 +62,14 @@
 - 2023.07 ~ 2023.08 - [손안전](https://github.com/SWF2023-BAB) _ 전기세 민영화의 혼란을 최소화 해줄 수 있는 웹 서비스 | React.js
 - 2023.08 ~ ing - [한림대x강원대 멋쟁이사자처럼 연합해커톤(감자톤) 주식 페이지](https://github.com/jung0115/Potato-thon-game_FRONT) | React.js
 
-## 🔥 Experience
+### 🔥 Experience
 - GNU 창의동아리 Big D.T 운영 `2020.05 ~ 2020.07`
 - GNU LINC+ 창업동아리 EARIA 운영 `2021.05 ~ 2021.12`
 - UMC 3rd Android 파트 수료 `2022.09 ~ 2023.02`
 - UMC 4th Node.js 파트 수료 `2023.03 ~ 2023.08`
 - 제2회 CO-WEEK Academy 수료 `2023.07 ~ 2023.07` 
 
-## 🏆 Award
+### 🏆 Award
 - 2020 GNU 창의동아리 **우수상**
 - 2023 지식재산-빅데이터 경진대회 **우수상**
 - 2023 4th NE(O)RDINARY 해커톤 **최우수상(2위)**
