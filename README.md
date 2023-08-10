@@ -57,8 +57,8 @@
 - 2023.06 ~ ing - [오다르](https://github.com/O-dar/O-dar-Node) _ 시니어 맞춤 구인구직 웹 | Node.js
 - 2023.07 ~ 2023.07 - [RE:CO](https://github.com/Re-Co-umc/RECO_AOS) _ 리필리테이션 지도 앱 | AOS(Kotlin)
 - 2023.07 ~ ing - 소퐁소폼 _ 소품샵 지도 앱 | [AOS(Kotlin)](https://github.com/HeoJoe/so-pong-so-pong), Node.js
-- 2023.07 ~ 2023.08 - [이루다](https://github.com/womentech-hackathon/Womentech_AOS) _ 중장년 재취업 목표 달성 도우미 앱 | AOS(Kotlin) 🏆
-- 2023.07 ~ 2023.07 - [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) _ 우울한 사람에게 활동을 제안하는 웹 | React.js 🏆
+- 2023.07 ~ 2023.08 - [이루다](https://github.com/womentech-hackathon/Womentech_AOS) _ 중장년 재취업 목표 달성 도우미 | AOS(Kotlin) 🏆
+- 2023.07 ~ 2023.07 - [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) _ 우울한 사람을 위한 활동 제안 서비스 | React.js 🏆
 - 2023.07 ~ 2023.08 - [손안전](https://github.com/SWF2023-BAB) _ 전기세 민영화의 혼란을 최소화 하는 웹 | React.js
 - 2023.08 ~ ing - [한림대x강원대 멋쟁이사자처럼 연합해커톤(감자톤) 주식 페이지](https://github.com/jung0115/Potato-thon-game_FRONT) | React.js
 
