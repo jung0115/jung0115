@@ -59,7 +59,7 @@
 - 2023.07 ~ ing - 소퐁소폼 _ 소품샵 지도 앱 | [AOS(Kotlin)](https://github.com/HeoJoe/so-pong-so-pong), Node.js
 - 2023.07 ~ ing - [이루다](https://github.com/womentech-hackathon/Womentech_AOS) _ 중장년 재취업 목표 달성 도우미 | AOS(Kotlin) 🏆
 - 2023.07 ~ 2023.07 - [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) _ 우울한 사람을 위한 활동 제안 서비스 | React.js 🏆
-- 2023.08 ~ ing - [한림대x강원대 멋쟁이사자처럼 연합해커톤(감자톤) 주식 페이지](https://github.com/jung0115/Potato-thon-game_FRONT) | React.js
+- 2023.09 ~ ing - [한림대x강원대 멋쟁이사자처럼 연합해커톤(감자톤) 주식 페이지](https://github.com/jung0115/Potato-thon-game_FRONT) | React.js
 
 #### 🔥 Experience
 - GNU 창의동아리 Big D.T 운영 `2020.05 ~ 2020.07`
