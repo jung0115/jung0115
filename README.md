@@ -52,7 +52,7 @@
 #### 💻 Project (출시: ✅, 수상: 🏆)  
 - 2022.04 ~ 2022.11 - [놀다가](https://github.com/yahoo557/bibimbap) _ 3D 가상 공간 블로그 | WebGL, Three.js
 - 2022.11 ~ 2023.01 - [개발새발](https://github.com/ddwwon/Gaebal_Saebal_AOS_Ver.2) _ 개발자를 위한 기록 앱 | AOS(Kotlin) ✅
-- 2023.01 ~ 2023.02 - [받장](https://github.com/EnoughKK/UMC_badjang_Android) _ 장학금 및 지원금 조회 플랫폼 | AOS(Kotlin)
+- 2023.01 ~ 2023.02 - [받장](https://github.com/EnoughKK/UMC_badjang_Android) _ 장학금 및 지원금 조회 플랫폼 | AOS(Kotlin) ✅
 - 2023.01 ~ 2023.06 - Linkive _ 링크 저장 플랫폼 | [AOS(Kotlin)](https://github.com/jung0115/Linkive_AOS), [React.js](https://github.com/charBS0701/linkive-react)
 - 2023.06 ~ 2023.06 - [IDear](https://github.com/Nbti/IDear_AOS) _ Chat GPT가 귀찮은 글을 대신 작성해주는 앱 | AOS(Kotlin) 🏆
 - 2023.06 ~ 2023.08 - [오다르](https://github.com/O-dar/O-dar-Node) _ 시니어 맞춤 구인구직 웹 | Node.js ✅<!-- - 2023.07 ~ ing - 소퐁소폼 _ 소품샵 지도 앱 | [AOS(Kotlin)](https://github.com/HeoJoe/so-pong-so-pong), Node.js-->
