@@ -66,7 +66,7 @@
 - UMC 3rd Android 파트 수료 `2022.09 ~ 2023.02`
 - UMC 4th Node.js 파트 수료 `2023.03 ~ 2023.08`
 - 제2회 CO-WEEK Academy 수료 `2023.07 ~ 2023.07`
-- Remote Internship Program 4th `2023.09 ~ 2023.11`  
+- Remote Internship Program 4th Expert 파트 `2023.09 ~ 2023.11`  
 
 #### 🏆 Award
 - 2020 GNU 창의동아리 **우수상**
