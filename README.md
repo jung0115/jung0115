@@ -49,8 +49,8 @@
 
 </div>
 
-#### 💻 Project (출시: ✅, 수상: 🏆)  
-- 2022.04 ~ 2022.11 - [놀다가](https://github.com/yahoo557/bibimbap) _ 3D 가상 공간 블로그 | WebGL, Three.js
+#### 💻 Project (배포: ✅, 수상: 🏆)  
+- 2022.04 ~ 2022.11 - [놀다가](https://github.com/yahoo557/bibimbap) _ 3D 가상 공간 블로그 | WebGL, Three.js ✅
 - 2022.11 ~ 2023.01 - [개발새발](https://github.com/ddwwon/Gaebal_Saebal_AOS_Ver.2) _ 개발자를 위한 기록 앱 | AOS(Kotlin) ✅
 - 2023.01 ~ 2023.02 - [받장](https://github.com/EnoughKK/UMC_badjang_Android) _ 장학금 및 지원금 조회 플랫폼 | AOS(Kotlin) ✅
 - 2023.01 ~ 2023.06 - Linkive _ 링크 저장 플랫폼 | [AOS(Kotlin)](https://github.com/jung0115/Linkive_AOS), [React.js](https://github.com/charBS0701/linkive-react)
