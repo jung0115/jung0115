@@ -55,10 +55,11 @@
 - 2023.01 ~ 2023.02 - [받장](https://github.com/EnoughKK/UMC_badjang_Android) _ 장학금 및 지원금 조회 플랫폼 | AOS(Kotlin) ✅
 - 2023.01 ~ 2023.06 - Linkive _ 링크 저장 플랫폼 | [AOS(Kotlin)](https://github.com/jung0115/Linkive_AOS), [React.js](https://github.com/charBS0701/linkive-react)
 - 2023.06 ~ 2023.06 - [IDear](https://github.com/Nbti/IDear_AOS) _ Chat GPT가 귀찮은 글을 대신 작성해주는 앱 | AOS(Kotlin) 🏆
-- 2023.06 ~ 2023.08 - [오다르](https://github.com/O-dar/O-dar-Node) _ 시니어 맞춤 구인구직 웹 | Node.js ✅<!-- - 2023.07 ~ ing - 소퐁소폼 _ 소품샵 지도 앱 | [AOS(Kotlin)](https://github.com/HeoJoe/so-pong-so-pong), Node.js-->
+- 2023.06 ~ 2023.08 - [오다르](https://github.com/O-dar/O-dar-Node) _ 시니어 맞춤 구인구직 웹 | Node.js ✅ <!-- - 2023.07 ~ ing - 소퐁소폼 _ 소품샵 지도 앱 | [AOS(Kotlin)](https://github.com/HeoJoe/so-pong-so-pong), Node.js-->
 - 2023.07 ~ ing - [이루다](https://github.com/womentech-hackathon/Womentech_AOS) _ 중장년 재취업 목표 달성 도우미 | AOS(Kotlin) 🏆
 - 2023.07 ~ 2023.07 - [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) _ 우울한 사람을 위한 활동 제안 서비스 | React.js 🏆
 - 2023.09 ~ ing - [한림대x강원대 멋쟁이사자처럼 연합해커톤(감자톤) 주식 페이지](https://github.com/jung0115/Potato-thon-game_FRONT) | React.js
+- 2023.08 ~ 2023.10 - 모우미 _ 쉬운 언어 번역 중개 도우미 | React Native
 
 #### 🔥 Experience
 - GNU 창의동아리 Big D.T 운영 `2020.05 ~ 2020.07`
@@ -66,7 +67,6 @@
 - GNU 창의융합동아리 멘토 `2021.07 ~ 2021.12`
 - UMC 3rd Android 파트 수료 `2022.09 ~ 2023.02`
 - UMC 4th Node.js 파트 수료 `2023.03 ~ 2023.08`
-- 제2회 CO-WEEK Academy 수료 `2023.07 ~ 2023.07`
 - Remote Internship Program 4th Expert 파트 `2023.09 ~ 2023.11`  
 
 #### 🏆 Award
