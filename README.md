@@ -59,7 +59,7 @@
 - 2023.07 ~ ing - [이루다](https://github.com/womentech-hackathon/Womentech_AOS) _ 중장년 재취업 목표 달성 도우미 | AOS(Kotlin) 🏆
 - 2023.07 ~ 2023.07 - [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) _ 우울한 사람을 위한 활동 제안 서비스 | React.js 🏆
 - 2023.09 ~ ing - [한림대x강원대 멋쟁이사자처럼 연합해커톤(감자톤) 주식 페이지](https://github.com/jung0115/Potato-thon-game_FRONT) | React.js
-- 2023.08 ~ 2023.10 - [모우미](https://github.com/Makive-moumi/Moumi_RN) _ 쉬운 언어 번역 중개 도우미 | React Native 🏆
+- 2023.08 ~ 2023.10 - [모우미](https://github.com/Makive-moumi/Moumi_RN) _ 발달 장애인을 위한 쉬운 언어 번역 중개 서비스 | React Native 🏆
 
 #### 🔥 Experience
 - GNU 창의동아리 Big D.T 운영 `2020.05 ~ 2020.07`
