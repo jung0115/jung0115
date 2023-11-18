@@ -80,7 +80,10 @@
   
 ---
   
-[<div align=center><img height="45" alt="more portfolio" src="https://github.com/jung0115/jung0115/assets/76805879/2331ee89-30b6-4a80-8948-f0e212866cc1" /></div>](https://wakeful-handsaw-bcb.notion.site/35599adfa7a247d0a6e0b4ebd273eee9?pvs=4)
-
+<div align=center>
+  <a href="https://wakeful-handsaw-bcb.notion.site/35599adfa7a247d0a6e0b4ebd273eee9?pvs=4">
+   <img height="45" alt="more portfolio" src="https://github.com/jung0115/jung0115/assets/76805879/2331ee89-30b6-4a80-8948-f0e212866cc1" />
+  </a>
+</div>
 
 <!--https://simpleicons.org/-->
