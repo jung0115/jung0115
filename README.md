@@ -77,5 +77,10 @@
 - 2023 HGU DREAMLAND 해커톤 **장려상(5위)**
 - 2023 서울 우먼테크 해커톤 **우수상(3위)**
 - 2023 메카이브 메이커톤 **우수상(3위)**
+  
+---
+  
+[<div align=center><img height="45" alt="more portfolio" src="https://github.com/jung0115/jung0115/assets/76805879/2331ee89-30b6-4a80-8948-f0e212866cc1" /></div>](https://wakeful-handsaw-bcb.notion.site/35599adfa7a247d0a6e0b4ebd273eee9?pvs=4)
+
 
 <!--https://simpleicons.org/-->
