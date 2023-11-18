@@ -81,7 +81,7 @@
 ---
   
 <div align=center>
-  <a href="https://wakeful-handsaw-bcb.notion.site/35599adfa7a247d0a6e0b4ebd273eee9?pvs=4">
+  <a href="https://wakeful-handsaw-bcb.notion.site/35599adfa7a247d0a6e0b4ebd273eee9?pvs=4" target="_blank">
    <img height="45" alt="more portfolio" src="https://github.com/jung0115/jung0115/assets/76805879/2331ee89-30b6-4a80-8948-f0e212866cc1" />
   </a>
 </div>
