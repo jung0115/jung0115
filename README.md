@@ -67,7 +67,7 @@
 - GNU 창의융합동아리 멘토 `2021.07 ~ 2021.12`
 - UMC 3rd Android 파트 수료 `2022.09 ~ 2023.02`
 - UMC 4th Node.js 파트 수료 `2023.03 ~ 2023.08`
-- Remote Internship Program 4th Expert 트랙 수료 `2023.09 ~ 2023.11`  
+- Remote Internship Program 4th Expert Track 수료 `2023.09 ~ 2023.11`  
 
 #### 🏆 Award
 - 2020 GNU 창의동아리 **우수상**
