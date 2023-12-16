@@ -65,15 +65,15 @@
 - GNU 창의동아리 Big D.T 운영 `2020.05 ~ 2020.07`
 - GNU LINC+ 창업동아리 EARIA 운영 `2021.05 ~ 2021.12`
 - GNU 창의융합동아리 멘토 `2021.07 ~ 2021.12`
-- UMC 3rd Android 파트 수료 `2022.09 ~ 2023.02`
-- UMC 4th Node.js 파트 수료 `2023.03 ~ 2023.08`
+- [UMC](https://www.makeus.in/umc) 3rd Android 파트 수료 `2022.09 ~ 2023.02`
+- [UMC](https://www.makeus.in/umc) 4th Node.js 파트 수료 `2023.03 ~ 2023.08`
 - Remote Internship Program 4th Expert Track 수료 `2023.09 ~ 2023.11`  
 
 #### 🏆 Award
 - 2020 GNU 창의동아리 **우수상**
 - 2021 GNU 빅데이터 아이디어 공모전 **장려상**
 - 2023 GNU 지식재산-빅데이터 경진대회 **우수상**
-- 2023 4th NE(O)RDINARY 해커톤 **최우수상(2위)**
+- 2023 4th [NE(O)RDINARY](https://www.makeus.in/) 해커톤 **최우수상(2위)**
 - 2023 HGU DREAMLAND 해커톤 **장려상(5위)**
 - 2023 서울 우먼테크 해커톤 **우수상(3위)**
 - 2023 메카이브 메이커톤 **우수상(3위)**
