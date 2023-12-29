@@ -50,7 +50,7 @@
 </div>
 
 #### 💻 Project
-| Period | Project | Description | Role | Result |
+| Period | Title | Description | Role | Result |
 | :------------ | :------------ | :------------ | :------------ | :------------: |
 | 2022.04 ~ 2022.11 | [놀다가](https://github.com/yahoo557/bibimbap) | 3D 가상 공간 블로그 | WebGL, Three.js | ✅ |
 | 2022.11 ~ 2023.01 | [개발새발](https://github.com/ddwwon/Gaebal_Saebal_AOS_Ver.2) | 개발자를 위한 기록 앱 | AOS(Kotlin) | ✅ |
