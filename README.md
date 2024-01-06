@@ -65,6 +65,18 @@
 
 <!-- - 2023.07 ~ ing - 소퐁소폼 _ 소품샵 지도 앱 | [AOS(Kotlin)](https://github.com/HeoJoe/so-pong-so-pong), Node.js--> 
 
+<details markdown="1">
+ <summary><b>🖥️ Mini Projects</b></summary>
+ <div>
+  <ul>
+   <li><code>2023.03 ~ 2023.05</code> | <a href="https://github.com/jung0115/Thock-Thock-Hangeul_DEMO">똑똑한글</a> : AI 기반 놀이식 유아 교육 앱 | Android(Java), YOLO</li>
+   <li><code>2023.07 ~ 2023.07</code> | <a href="https://github.com/Re-Co-umc/RECO_AOS">RE:CO</a> : 리필리테이션 지도 앱 | Android(Kotlin)</li>
+   <li><code>2023.07 ~ 2023.08</code> | <a href="https://github.com/SWF2023-BAB/SWF2023-BAB">손안전</a> : 전기세 민영화 혼란 최소화 서비스 | React.js</li>
+   <li><code>2024.01 ~ 2024.01</code> | <a href="https://github.com/UMC-5th-M-team/Sally_AOS">샐리</a> : 독서 목표 달성 도우미 | Android(Kotlin)</li>
+  </ul>
+ </div>
+</details>
+
 #### 🔥 Experience
 - `2020.05 ~ 2020.07` | GNU 창의동아리 Big D.T 운영 
 - `2021.05 ~ 2021.12` | GNU LINC+ 창업동아리 EARIA 운영 
