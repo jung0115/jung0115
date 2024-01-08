@@ -7,8 +7,8 @@
 ```
 
 <div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115&count_bg=%233DDC84&title_bg=%238DA497&icon=icloud.svg&icon_color=%23ECECEC&title=jmi&edge_flat=false"/></a>
-<a href="https://wakatime.com/@e4fae065-b841-4d46-aa62-c4596ce276b8"><img src="https://wakatime.com/badge/user/e4fae065-b841-4d46-aa62-c4596ce276b8.svg" alt="Total time coded since May 4 2023" /></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115&count_bg=%233DDC84&title_bg=%238DA497&icon=icloud.svg&icon_color=%23ECECEC&title=jmi&edge_flat=false"/></a>
+ <a href="https://wakatime.com/@e4fae065-b841-4d46-aa62-c4596ce276b8"><img src="https://wakatime.com/badge/user/e4fae065-b841-4d46-aa62-c4596ce276b8.svg" alt="Total time coded since May 4 2023" /></a>
 </div>
 
 ---
@@ -68,12 +68,40 @@
 <details markdown="1">
  <summary><b>🖥️ Mini Projects</b></summary>
  <div>
-  <ul>
-   <li><code>2023.03 ~ 2023.05</code> | <a href="https://github.com/jung0115/Thock-Thock-Hangeul_DEMO">똑똑한글</a> : AI 기반 놀이식 유아 교육 앱 | Android(Java), YOLO</li>
-   <li><code>2023.07 ~ 2023.07</code> | <a href="https://github.com/Re-Co-umc/RECO_AOS">RE:CO</a> : 리필리테이션 지도 앱 | Android(Kotlin)</li>
-   <li><code>2023.07 ~ 2023.08</code> | <a href="https://github.com/SWF2023-BAB/SWF2023-BAB">손안전</a> : 전기세 민영화 혼란 최소화 서비스 | React.js</li>
-   <li><code>2024.01 ~ 2024.01</code> | <a href="https://github.com/UMC-5th-M-team/Sally_AOS">샐리</a> : 독서 목표 달성 도우미 | Android(Kotlin)</li>
-  </ul>
+  <table style="text-align:left;">
+   <th>Period</th>
+	  <th>Title</th>
+   <th>Description</th>
+   <th>Role</th>
+
+   <tr>
+    <td>2023.03 ~ 2023.05</td>
+    <td><a href="https://github.com/jung0115/Thock-Thock-Hangeul_DEMO">똑똑한글</a></td>
+    <td>AI 기반 놀이식 유아 교육 앱</td>
+    <td>Android(Java), YOLO</td>
+   </tr>
+
+   <tr>
+    <td>2023.07 ~ 2023.07</td>
+    <td><a href="https://github.com/Re-Co-umc/RECO_AOS">RE:CO</a></td>
+    <td>리필리테이션 지도 앱</td>
+    <td>Android(Kotlin)</td>
+   </tr>
+
+   <tr>
+    <td>2023.07 ~ 2023.08</td>
+    <td><a href="https://github.com/SWF2023-BAB/SWF2023-BAB">손안전</a></td>
+    <td>전기세 민영화 혼란 방지 서비스</td>
+    <td>React.js</td>
+   </tr>
+
+   <tr>
+    <td>2024.01 ~ 2024.01</td>
+    <td><a href="https://github.com/UMC-5th-M-team/Sally_AOS">샐리</a></td>
+    <td>독서 목표 달성 도우미</td>
+    <td>Android(Kotlin)</td>
+   </tr>
+  </table>
  </div>
 </details>
 
