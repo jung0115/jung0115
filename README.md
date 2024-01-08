@@ -78,14 +78,14 @@
     <td>2023.03 ~ 2023.05</td>
     <td><a href="https://github.com/jung0115/Thock-Thock-Hangeul_DEMO">똑똑한글</a></td>
     <td>AI 기반 놀이식 유아 교육 앱</td>
-    <td>Android(Java), YOLO</td>
+    <td>AOS(Java), YOLO</td>
    </tr>
 
    <tr>
     <td>2023.07 ~ 2023.07</td>
     <td><a href="https://github.com/Re-Co-umc/RECO_AOS">RE:CO</a></td>
     <td>리필리테이션 지도 앱</td>
-    <td>Android(Kotlin)</td>
+    <td>AOS(Kotlin)</td>
    </tr>
 
    <tr>
@@ -99,7 +99,7 @@
     <td>2024.01 ~ 2024.01</td>
     <td><a href="https://github.com/UMC-5th-M-team/Sally_AOS">샐리</a></td>
     <td>독서 목표 달성 도우미</td>
-    <td>Android(Kotlin)</td>
+    <td>AOS(Kotlin)</td>
    </tr>
   </table>
  </div>
