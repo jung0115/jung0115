@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Android%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
-### ⭐ Joe JeongMi
+### ⭐ Jo JeongMi
 ```
 🏫 Gyeongsang National University, Computer Science & Engineering | 2020.03 ~
 🥼 Gyeongsang National University, Machine Learning Laboratory | 2021.03 ~ 2022.06
