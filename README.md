@@ -35,14 +35,14 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" alt="mariadb" height="24"/> </a> <!-- MariaDB -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Firebase-2C384A?style=for-the-badge&logo=firebase" alt="firebase" height="24"/> </a> <!-- Firebase -->
 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white" alt="python" height="24"/> </a> <!-- Python -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" height="24"/> </a> <!-- C언어 -->
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs" alt="Three.js" height="24"/> </a> <!-- Three.js -->
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="dart" height="24"/> </a> <!-- YOLO -->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" height="24"/> </a> <!-- OpenCV -->
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" height="24"/> </a> <!-- TensorFolw -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white" alt="python" height="24"/> </a> <!-- Python -->
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" height="24"/> </a> <!-- VS code -->
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" height="24"/> </a> <!-- C언어 -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="24"/> </a> <!-- Git -->
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="github" height="24"/> </a> <!-- Github -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="24"/> </a> <!-- Figma -->
