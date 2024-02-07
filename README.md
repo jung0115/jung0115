@@ -58,7 +58,7 @@
 | 2023.01 ~ 2023.06 | [Linkive](https://github.com/jung0115/Linkive_AOS) | 링크 저장 플랫폼 | [AOS(Kotlin)](https://github.com/jung0115/Linkive_AOS), [React.js](https://github.com/charBS0701/linkive-react) |  |  |
 | 2023.06 ~ 2023.06 | [IDear](https://github.com/Nbti/IDear_AOS) | Chat GPT가 귀찮은 글을 대신 작성해주는 앱 | AOS(Kotlin) | 🏆 |
 | 2023.06 ~ 2023.08 | [오다르](https://github.com/O-dar/O-dar-Node) | 시니어 맞춤 구인구직 웹 | Node.js | ✅ |
-| 2023.07 ~ ing | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) | 중장년 재취업 목표 달성 도우미 | AOS(Kotlin) | 🏆 |
+| 2023.07 ~ 2024.01 | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) | 중장년 재취업 목표 달성 도우미 | AOS(Kotlin) | 🏆 |
 | 2023.07 ~ 2023.07 | [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) | 우울한 사람을 위한 활동 제안 서비스 | React.js | 🏆 |
 | 2023.08 ~ 2023.10 | [모우미](https://github.com/Makive-moumi/Moumi_RN) | 발달 장애인을 위한 쉬운 언어 번역 중개 서비스 | React Native | 🏆 |
 | 2023.09 ~ 2023.11 | [감자톤 게임](https://github.com/jung0115/Potato-thon-game_FRONT) | 한림대x강원대 멋쟁이사자처럼 연합해커톤 주식 게임 | React.js | ✅ |
