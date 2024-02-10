@@ -106,19 +106,19 @@
 </details>
 
 #### 🔥 Experience
-- `2020.05 ~ 2020.07` | GNU 창의동아리 Big D.T 운영 
-- `2021.05 ~ 2021.12` | GNU LINC+ 창업동아리 EARIA 운영 
-- `2021.07 ~ 2021.12` | GNU 창의융합동아리 멘토 
+- `2020.05 ~ 2020.07` | 경상대 창의동아리 Big D.T 운영 
+- `2021.05 ~ 2021.12` | 경상대 LINC+ 창업동아리 EARIA 운영 
+- `2021.07 ~ 2021.12` | 경상대 창의융합동아리 멘토 
 - `2022.09 ~ 2023.02` | [UMC](https://www.makeus.in/umc) 3rd Android 파트 수료 
-- `2023.03 ~ 2023.08` | [UMC](https://www.makeus.in/umc) 4th Node.js 파트 수료 
+- `2023.03 ~ 2023.08` | [UMC](https://www.makeus.in/umc) 4th Server(Node.js) 파트 수료 
 - `2023.09 ~ 2023.11` | Remote Internship Program 4th Expert Track 수료 
 
 #### 🏆 Award
-- 2020 GNU 창의동아리 **우수상**
-- 2021 GNU 빅데이터 아이디어 공모전 **장려상**
-- 2023 GNU 지식재산-빅데이터 경진대회 **우수상**
+- 2020 경상대 창의동아리 **우수상**
+- 2021 경상대 빅데이터 아이디어 공모전 **장려상**
+- 2023 경상대 지식재산-빅데이터 경진대회 **우수상**
 - 2023 4th [NE(O)RDINARY](https://www.makeus.in/) 해커톤 **최우수상(2위)**
-- 2023 HGU [DREAMLAND](https://hguhackathon.com/) 해커톤 **장려상(5위)**
+- 2023 한동대 제2회 SW 해커톤 [DREAMLANDTHON](https://hguhackathon.com/) **장려상(5위)**
 - 2023 서울 우먼테크 해커톤 **우수상(3위)**
 - 2023 메카이브 메이커톤 **우수상(3위)**
   
