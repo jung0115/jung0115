@@ -111,7 +111,7 @@
 - `2021.07 ~ 2021.12` | 경상대 창의융합동아리 멘토 
 - `2022.09 ~ 2023.02` | [UMC](https://www.makeus.in/umc) 3rd Android 파트 수료 
 - `2023.03 ~ 2023.08` | [UMC](https://www.makeus.in/umc) 4th Server(Node.js) 파트 수료 
-- `2023.09 ~ 2023.11` | Remote Internship Program 4th Expert Track 수료 
+- `2023.09 ~ 2023.11` | [Remote Internship Program](https://linktr.ee/remote_internship?fbclid=PAAabSKjhI0VrutB6zwGXTUxUbxlv6L0LEsCKeF37Otx9w25eaFoQvh0ZoXWo) 4th Expert Track 수료 
 
 #### 🏆 Award
 - 2020 경상대 창의동아리 **우수상**
