@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Android%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
 ### ⭐ Jo JeongMi
 ```
