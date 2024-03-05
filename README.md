@@ -75,28 +75,28 @@
    <th>Role</th>
 
    <tr>
-    <td>2023.03 ~ 2023.05</td>
+    <td>2023.03 ~ 2023.05 <code>3개월</code></td>
     <td><a href="https://github.com/jung0115/Thock-Thock-Hangeul_DEMO">똑똑한글</a></td>
     <td>AI 기반 놀이식 유아 교육 앱</td>
     <td>AOS(Java), YOLO</td>
    </tr>
 
    <tr>
-    <td>2023.07 ~ 2023.07</td>
+    <td>2023.07 ~ 2023.07 <code>1박2일</code></td>
     <td><a href="https://github.com/Re-Co-umc/RECO_AOS">RE:CO</a></td>
     <td>리필리테이션 지도 앱</td>
     <td>AOS(Kotlin)</td>
    </tr>
 
    <tr>
-    <td>2023.07 ~ 2023.08</td>
+    <td>2023.07 ~ 2023.08 <code>2박3일</code></td>
     <td><a href="https://github.com/SWF2023-BAB/SWF2023-BAB">손안전</a></td>
     <td>전기세 민영화 혼란 방지 서비스</td>
     <td>React.js</td>
    </tr>
 
    <tr>
-    <td>2024.01 ~ 2024.01</td>
+    <td>2024.01 ~ 2024.01 <code>1박2일</code></td>
     <td><a href="https://github.com/UMC-5th-M-team/Sally_AOS">샐리</a></td>
     <td>독서 목표 달성 도우미</td>
     <td>AOS(Kotlin)</td>
