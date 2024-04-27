@@ -115,14 +115,17 @@
 - `2024.04 ~ ing` | [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th
 
 #### 🏆 Award
-- 2020 경상대 창의동아리 **우수상**
-- 2021 경상대 빅데이터 아이디어 공모전 **장려상**
-- 2023 경상대 지식재산-빅데이터 경진대회 **우수상**
-- 2023 4th [NE(O)RDINARY](https://www.makeus.in/) 해커톤 **최우수상(2위)**
-- 2023 한동대 영남권 대학 연합 해커톤 2nd [DREAMLANDTHON](https://hguhackathon.com/) **장려상(5위)**
-- 2023 서울 우먼테크 해커톤 **우수상(3위)**
-- 2023 메카이브 메이커톤 **우수상(3위)**
-  
+| 연도 | 대회명 | 수상내역 | 프로젝트/내용 |
+| :------------ | :------------ | :------------ | :------------ |
+| 2020 | 경상대 창의동아리 | **우수상** | 창의동아리 Big D.T 운영 |
+| 2021 | 경상대 빅데이터 아이디어 공모전 | **장려상** | 경상대 통합 교통 서비스 기획 |
+| 2023 | 경상대 지식재산-빅데이터 경진대회 | **우수상** | 국가별 수어 번역 서비스 기획 |
+| 2023 | 4th [NE(O)RDINARY](https://www.makeus.in/) 해커톤 | **최우수상(2위)** | [IDear](https://github.com/Nbti/IDear_AOS) Android(Kotlin) 개발 |
+| 2023 | 한동대 영남권 대학 연합 해커톤 2nd [DREAMLANDTHON](https://hguhackathon.com/) | **장려상(5위)** | [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) React.js 개발 |
+| 2023 | [서울 우먼테크 해커톤](http://www.sw-hackathon.com/) | **우수상(3위)** | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) Android(Kotlin) 개발 |
+| 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/event/showView.do?&site=10&portalMenuNo=247&searchEvent=04&proDtlNo=3912) | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
+
+<!--
 ---
   
 <div align=center>
@@ -130,5 +133,6 @@
    <img height="45" alt="more portfolio" src="https://github.com/jung0115/jung0115/assets/76805879/2331ee89-30b6-4a80-8948-f0e212866cc1" />
   </a>
 </div>
+-->
 
 <!--https://simpleicons.org/-->
