@@ -123,7 +123,7 @@
 | 2023 | 4th [NE(O)RDINARY](https://www.makeus.in/) 해커톤 | **최우수상(2위)** | [IDear](https://github.com/Nbti/IDear_AOS) Android(Kotlin) 개발 |
 | 2023 | 한동대 영남권 대학 연합 해커톤 2nd [DREAMLANDTHON](https://hguhackathon.com/) | **장려상(5위)** | [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) React.js 개발 |
 | 2023 | [서울 우먼테크 해커톤](http://www.sw-hackathon.com/) | **우수상(3위)** | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) Android(Kotlin) 개발 |
-| 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/event/showView.do?&site=10&portalMenuNo=247&searchEvent=04&proDtlNo=3912) | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
+| 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/boardView.do?bid=5&mid=45&idx=47095&rnum=1&pageNo=1&pageType=&site=10&portalMenuNo=40&searchField=0&searchString=%EB%A9%94%EC%9D%B4%EC%BB%A4%ED%86%A4) | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
 
 <!--
 ---
