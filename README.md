@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Android%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
 ### ⭐ Jo JeongMi
 ```
-🏫 Gyeongsang National University, Computer Science & Engineering | 2020.03 ~
-🥼 Gyeongsang National University, Machine Learning Laboratory | 2021.03 ~ 2022.06
+🏫 Gyeongsang National University, Computer Science | 2020.03 ~ 
 ```
 
 <div align=center>
@@ -52,13 +51,13 @@
 #### 🔥 Experience
 | Period | Description |
 | :------------ | :------------ |
-| `2020.05 ~ 2020.07` | 경상대 창의동아리 Big D.T 운영  |
-| `2021.05 ~ 2021.12` | 경상대 LINC+ 창업동아리 EARIA 운영 |
-| `2021.07 ~ 2021.12` | 경상대 창의융합동아리 멘토 |
-| `2022.09 ~ 2023.02` | [UMC](https://www.makeus.in/umc) 3rd Android 파트 수료 |
-| `2023.03 ~ 2023.08` | [UMC](https://www.makeus.in/umc) 4th Server(Node.js) 파트 수료 |
-| `2023.09 ~ 2023.11` | [Remote Internship Program](https://linktr.ee/remote_internship?fbclid=PAAabSKjhI0VrutB6zwGXTUxUbxlv6L0LEsCKeF37Otx9w25eaFoQvh0ZoXWo) 4th Expert Track 수료 |
-| `2024.04 ~ ing` | [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th |
+| `2020.05 ~ 2020.07` | 📝 경상대 창의동아리 Big D.T 운영 |
+| `2021.03 ~ 2022.06` | 🥼 경상대 컴퓨터과학과 인공지능 연구실(ML Lab) 학부 연구원 |
+| `2021.07 ~ 2021.12` | 👩🏻‍🏫 경상대 창의융합동아리 멘토 |
+| `2022.09 ~ 2023.02` | 🌐 [UMC](https://www.makeus.in/umc) 3rd Android 파트 수료 |
+| `2023.03 ~ 2023.08` | 🌐 [UMC](https://www.makeus.in/umc) 4th Server(Node.js) 파트 수료 |
+| `2023.09 ~ 2023.11` | 📊 [Remote Internship Program](https://linktr.ee/remote_internship?fbclid=PAAabSKjhI0VrutB6zwGXTUxUbxlv6L0LEsCKeF37Otx9w25eaFoQvh0ZoXWo) 4th Expert Track 수료 |
+| `2024.04 ~ ing` | 👩🏻‍💻 [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th |
 
 #### 🏆 Award
 | Year | Contest | Award | Description |
