@@ -11,6 +11,8 @@
 | 2023.07 ~ 2023.07 `2박3일` | [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) | 우울한 사람을 위한 활동 제안 서비스 | React.js | 🏆 |
 | 2023.08 ~ 2023.10 `2개월` | [모우미](https://github.com/Makive-moumi/Moumi_RN) | 발달 장애인을 위한 쉬운 언어 번역 중개 서비스 | React Native | 🏆 |
 | 2023.09 ~ 2023.11 `3개월` | [감자톤 게임](https://github.com/jung0115/Potato-thon-game_FRONT) | 한림대x강원대 멋쟁이사자처럼 연합해커톤 게임 | React.js | ✅ |
+| 2024.04 ~ | [마이꾸미](https://github.com/SW-Marastro/MyKkumi_AOS) | 다이어리 구경 및 제품 정보 공유 서비스 | AOS(Kolin) | |
+| 2024.05 ~ | [SMARTUBE](https://github.com/jung0115/Smartube) | 유익한 숏폼 플랫폼 | AOS(Kotlin) | |
 
 <details markdown="1">
  <summary><b>🖥️ Mini Projects</b></summary>
