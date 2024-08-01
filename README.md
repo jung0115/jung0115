@@ -73,7 +73,7 @@
 ---
 <div align=center>
  <a href="https://github.com/jung0115/jung0115/blob/main/project/README.md">
-  <img height="55px" src="https://github.com/user-attachments/assets/efd94023-a734-48c6-8811-ed7278869d9f"/>
+  <img height="50px" src="https://github.com/user-attachments/assets/efd94023-a734-48c6-8811-ed7278869d9f"/>
  </a>
 </div>
 
