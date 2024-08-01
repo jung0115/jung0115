@@ -2,7 +2,7 @@
 
 ### ⭐ Jo JeongMi
 ```
-🏫 Gyeongsang National University, Computer Science | 2020.03 ~ 
+🏫 Gyeongsang National University, Computer Science | 2020.03 ~ 2024.08
 ```
 
 <div align=center>
@@ -11,6 +11,28 @@
 </div>
 
 ---
+
+#### 🔥 Experience
+| Period | Description |
+| :------------ | :------------ |
+| `2020.05 ~ 2020.07` | 📝 경상대 창의동아리 Big D.T 운영 |
+| `2021.03 ~ 2022.06` | 🥼 경상대 컴퓨터과학과 인공지능 연구실(ML Lab) 학부 연구원 |
+| `2021.07 ~ 2021.12` | 👩🏻‍🏫 경상대 창의융합동아리 멘토 |
+| `2022.09 ~ 2023.02` | 🌐 [UMC](https://www.makeus.in/umc) 3rd Android 파트 수료 |
+| `2023.03 ~ 2023.08` | 🌐 [UMC](https://www.makeus.in/umc) 4th Server(Node.js) 파트 수료 |
+| `2023.09 ~ 2023.11` | 📊 [Remote Internship Program](https://linktr.ee/remote_internship?fbclid=PAAabSKjhI0VrutB6zwGXTUxUbxlv6L0LEsCKeF37Otx9w25eaFoQvh0ZoXWo) 4th Expert Track 수료 |
+| `2024.04 ~ ing` | 👩🏻‍💻 [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th |
+
+#### 🏆 Award
+| Year | Contest | Award | Description |
+| :------------ | :------------ | :------------ | :------------ |
+| 2020 | 경상대 창의동아리 | **우수상** | 창의동아리 Big D.T 운영 |
+| 2021 | 경상대 빅데이터 아이디어 공모전 | **장려상** | 경상대 통합 교통 서비스 기획 |
+| 2023 | 경상대 지식재산-빅데이터 경진대회 | **우수상** | 국가별 수어 번역 서비스 기획 |
+| 2023 | 4th [NE(O)RDINARY](https://www.makeus.in/) 해커톤 | **최우수상(2위)** | [IDear](https://github.com/Nbti/IDear_AOS) Android(Kotlin) 개발 |
+| 2023 | 한동대 영남권 대학 연합 해커톤 2nd [DREAMLANDTHON](https://hguhackathon.com/) | **장려상(5위)** | [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) React.js 개발 |
+| 2023 | [서울 우먼테크 해커톤](http://www.sw-hackathon.com/) | **우수상(3위)** | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) Android(Kotlin) 개발 |
+| 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/boardView.do?bid=5&mid=45&idx=47095&rnum=1&pageNo=1&pageType=&site=10&portalMenuNo=40&searchField=0&searchString=%EB%A9%94%EC%9D%B4%EC%BB%A4%ED%86%A4) | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
 
 #### 🛠️ Tech Stack
 <div align="left">
@@ -48,30 +70,11 @@
 
 </div>
 
-#### 🔥 Experience
-| Period | Description |
-| :------------ | :------------ |
-| `2020.05 ~ 2020.07` | 📝 경상대 창의동아리 Big D.T 운영 |
-| `2021.03 ~ 2022.06` | 🥼 경상대 컴퓨터과학과 인공지능 연구실(ML Lab) 학부 연구원 |
-| `2021.07 ~ 2021.12` | 👩🏻‍🏫 경상대 창의융합동아리 멘토 |
-| `2022.09 ~ 2023.02` | 🌐 [UMC](https://www.makeus.in/umc) 3rd Android 파트 수료 |
-| `2023.03 ~ 2023.08` | 🌐 [UMC](https://www.makeus.in/umc) 4th Server(Node.js) 파트 수료 |
-| `2023.09 ~ 2023.11` | 📊 [Remote Internship Program](https://linktr.ee/remote_internship?fbclid=PAAabSKjhI0VrutB6zwGXTUxUbxlv6L0LEsCKeF37Otx9w25eaFoQvh0ZoXWo) 4th Expert Track 수료 |
-| `2024.04 ~ ing` | 👩🏻‍💻 [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th |
-
-#### 🏆 Award
-| Year | Contest | Award | Description |
-| :------------ | :------------ | :------------ | :------------ |
-| 2020 | 경상대 창의동아리 | **우수상** | 창의동아리 Big D.T 운영 |
-| 2021 | 경상대 빅데이터 아이디어 공모전 | **장려상** | 경상대 통합 교통 서비스 기획 |
-| 2023 | 경상대 지식재산-빅데이터 경진대회 | **우수상** | 국가별 수어 번역 서비스 기획 |
-| 2023 | 4th [NE(O)RDINARY](https://www.makeus.in/) 해커톤 | **최우수상(2위)** | [IDear](https://github.com/Nbti/IDear_AOS) Android(Kotlin) 개발 |
-| 2023 | 한동대 영남권 대학 연합 해커톤 2nd [DREAMLANDTHON](https://hguhackathon.com/) | **장려상(5위)** | [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) React.js 개발 |
-| 2023 | [서울 우먼테크 해커톤](http://www.sw-hackathon.com/) | **우수상(3위)** | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) Android(Kotlin) 개발 |
-| 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/boardView.do?bid=5&mid=45&idx=47095&rnum=1&pageNo=1&pageType=&site=10&portalMenuNo=40&searchField=0&searchString=%EB%A9%94%EC%9D%B4%EC%BB%A4%ED%86%A4) | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
-
 ---
-
-### [💾 Project 모아보기](https://github.com/jung0115/jung0115/blob/main/project/README.md)
+<div align=center>
+ <a href="https://github.com/jung0115/jung0115/blob/main/project/README.md">
+  <img height="55px" src="https://github.com/user-attachments/assets/efd94023-a734-48c6-8811-ed7278869d9f"/>
+ </a>
+</div>
 
 <!--https://simpleicons.org/-->
