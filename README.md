@@ -5,6 +5,11 @@
 🏫 Gyeongsang National University, Computer Science | 2020.03 ~ 2024.08
 ```
 
+> [!note]
+> - Android 개발 외에도 기획자, 디자이너, 백엔드 개발자 등 다양한 포지션을 직접 경험해보며 각 직군과 소통하는 역량을 길렀습니다.
+> - 사용자 경험에 집중하여 설계 및 구현하는 데에 욕심이 많아 요구사항 파악, 일정 관리, 업무 분담 등의 역할을 자주 맡아왔습니다.
+> - 부족한 부분은 실제로 부딪혀보며 능력을 기르려고 합니다. 리더십을 기르기 위해 동아리, 프로젝트 리더를 맡았고, 협업 능력을 기르기 위해 공모전, 해커톤 등 많은 프로젝트에 참여했습니다.
+
 <div align=center>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115&count_bg=%233DDC84&title_bg=%238DA497&icon=icloud.svg&icon_color=%23ECECEC&title=jmi&edge_flat=false"/></a>
  <!-- <a href="https://wakatime.com/@e4fae065-b841-4d46-aa62-c4596ce276b8"><img src="https://wakatime.com/badge/user/e4fae065-b841-4d46-aa62-c4596ce276b8.svg" alt="Total time coded since May 4 2023" /></a> -->
@@ -50,18 +55,13 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" height="24"/> </a> <!-- Dart -->
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js" alt="nodejs" height="24"/> </a> <!-- Node.js -->
-<a href="https://expressjs.com/ko/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express" alt="Expresjs" height="24"/> </a><!--Express-->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="24"/> </a> <!-- PostgreSQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="24"/> </a> <!-- MySQL -->
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" alt="mariadb" height="24"/> </a> <!-- MariaDB -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Firebase-2C384A?style=for-the-badge&logo=firebase" alt="firebase" height="24"/> </a> <!-- Firebase -->
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white" alt="python" height="24"/> </a> <!-- Python -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" height="24"/> </a> <!-- C언어 -->
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs" alt="Three.js" height="24"/> </a> <!-- Three.js -->
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="dart" height="24"/> </a> <!-- YOLO -->
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" height="24"/> </a> <!-- OpenCV -->
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" height="24"/> </a> <!-- TensorFolw -->
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" height="24"/> </a> <!-- VS code -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="24"/> </a> <!-- Git -->
@@ -73,7 +73,7 @@
 ---
 <div align=center>
  <a href="https://github.com/jung0115/jung0115/blob/main/project/README.md">
-  <img height="50px" src="https://github.com/user-attachments/assets/efd94023-a734-48c6-8811-ed7278869d9f"/>
+  <img height="44px" src="https://github.com/user-attachments/assets/efd94023-a734-48c6-8811-ed7278869d9f"/>
  </a>
 </div>
 
