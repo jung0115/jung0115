@@ -32,9 +32,9 @@
 | Year | Contest | | Award | Description |
 | :------------ | :------------ | :------------ | :------------ | :------------ |
 | 2020 | 경상대 창의동아리 | 경상대학교 미래교육원 | **우수상** | 창의동아리 Big D.T 운영 |
-| 2021 | 경상대 빅데이터 아이디어 공모전 | 경상대 빅데이터 혁신 공유대학사업단 | **장려상** | 경상대 통합 교통 서비스 기획 |
-| 2023 | 경상대 지식재산-빅데이터 경진대회 | 경상대 빅데이터기술IP융합인재양성사업단 | **우수상** | 국가별 수어 번역 서비스 기획 |
-| 2023 | 4th [NE(O)RDINARY](https://demoday.neordinary.co.kr/) 해커톤 | NE(O)RDINARY MakeUs Challenge | **최우수상(2위)** | [IDear](https://github.com/Nbti/IDear_AOS) Android(Kotlin) 개발 |
+| 2021 | 경상대 빅데이터 아이디어 공모전 | 빅데이터 공유대학사업단 | **장려상** | 경상대 통합 교통 서비스 기획 |
+| 2023 | 경상대 지식재산-빅데이터 경진대회 | 빅데이터기술융합인재양성사업단 | **우수상** | 국가별 수어 번역 서비스 기획 |
+| 2023 | 4th [NE(O)RDINARY](https://demoday.neordinary.co.kr/) 해커톤 | NE(O)RDINARY | **최우수상(2위)** | [IDear](https://github.com/Nbti/IDear_AOS) Android(Kotlin) 개발 |
 | 2023 | [한동대 영남권 대학 연합 해커톤](https://github.com/DREAMLANDTHON) | 한동대학교 | **장려상(5위)** | [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) React.js 개발 |
 | 2023 | [서울 우먼테크 해커톤](http://www.sw-hackathon.com/) | 서울특별시, 서울시여성가족재단 | **우수상(3위)** | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) Android(Kotlin) 개발 |
 | 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/boardView.do?bid=5&mid=45&idx=47095&rnum=1&pageNo=1&pageType=&site=10&portalMenuNo=40&searchField=0&searchString=%EB%A9%94%EC%9D%B4%EC%BB%A4%ED%86%A4) | 한국잡월드 | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
