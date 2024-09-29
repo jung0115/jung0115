@@ -39,7 +39,7 @@
 | 2023 | [서울 우먼테크 해커톤](http://www.sw-hackathon.com/) | 서울특별시, 서울시여성가족재단 | **우수상(3위)** | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) Android(Kotlin) 개발 |
 | 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/boardView.do?bid=5&mid=45&idx=47095&rnum=1&pageNo=1&pageType=&site=10&portalMenuNo=40&searchField=0&searchString=%EB%A9%94%EC%9D%B4%EC%BB%A4%ED%86%A4) | 한국잡월드 | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
 
-#### 🛠️ Tech Stack
+#### 🛠️ Skills
 <div align="left">
  
 <a href="https://developer.android.com" target="_blank" style="text-decoration: none;" rel="noreferrer"> <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="android" height="24"/> </a> <!-- 안드로이드 -->
@@ -55,7 +55,6 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" height="24"/> </a> <!-- Dart -->
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js" alt="nodejs" height="24"/> </a> <!-- Node.js -->
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="24"/> </a> <!-- PostgreSQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="24"/> </a> <!-- MySQL -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Firebase-2C384A?style=for-the-badge&logo=firebase" alt="firebase" height="24"/> </a> <!-- Firebase -->
 
