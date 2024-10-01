@@ -37,7 +37,7 @@
 | 2023 | 4th [NE(O)RDINARY](https://demoday.neordinary.co.kr/) 해커톤 | NE(O)RDINARY | **최우수상(2위)** | [IDear](https://github.com/Nbti/IDear_AOS) Android(Kotlin) 개발 |
 | 2023 | [한동대 영남권 대학 연합 해커톤](https://github.com/DREAMLANDTHON) | 한동대학교 | **장려상(5위)** | [Dream Quest](https://github.com/DREAMLANDTHON/DreamQuest_Front) React.js 개발 |
 | 2023 | [서울 우먼테크 해커톤](http://www.sw-hackathon.com/) | 서울특별시, 서울시여성가족재단 | **우수상(3위)** | [이루다](https://github.com/womentech-hackathon/Womentech_AOS) Android(Kotlin) 개발 |
-| 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/boardView.do?bid=5&mid=45&idx=47095&rnum=1&pageNo=1&pageType=&site=10&portalMenuNo=40&searchField=0&searchString=%EB%A9%94%EC%9D%B4%EC%BB%A4%ED%86%A4) | 한국잡월드 | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
+| 2023 | [메카이브 메이커톤](https://www.koreajobworld.or.kr/boardView.do?bid=1&mid=42&idx=46484&rnum=271&pageNo=&pageType=&site=10&portalMenuNo=39&searchField=0&searchString=) | 한국잡월드 | **우수상(3위)** | [모우미](https://github.com/Makive-moumi/Moumi_RN) React Native 개발 |
 
 #### 🛠️ Skills
 <div align="left">
