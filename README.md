@@ -26,7 +26,7 @@
 | `2022.09 ~ 2023.02` | 🌐 [UMC](https://www.instagram.com/uni_makeus_challenge/) 3rd Android 파트 수료 |
 | `2023.03 ~ 2023.08` | 🌐 [UMC](https://www.instagram.com/uni_makeus_challenge/) 4th Server(Node.js) 파트 수료 |
 | `2023.09 ~ 2023.11` | 📊 [Remote Internship Program](https://drive.google.com/file/d/1m_KkLkfCKVomXTnvAhFiHLKjgv6UhJdf/view?usp=sharing) 4th Expert Track 수료 |
-| `2024.04 ~ ing` | 👩🏻‍💻 [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th |
+| `2024.04 ~ 2024.11` | 👩🏻‍💻 [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th 수료 예정 |
 
 #### 🏆 Award
 | Year | Contest | | Award |
