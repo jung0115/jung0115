@@ -5,10 +5,10 @@
 🏫 Gyeongsang National University, Computer Science | 2020.03 ~ 2024.08
 ```
 
-> [!note]
+<!-- > [!note]
 > - Android 개발 외에도 기획자, 디자이너, 백엔드 개발자 등 다양한 포지션을 직접 경험해보며 각 직군과 소통하는 역량을 길렀습니다.
 > - 사용자 경험에 집중하여 설계 및 구현하는 데에 욕심이 많아 요구사항 파악, 일정 관리, 업무 분담 등의 역할을 자주 맡아왔습니다.
-> - 부족한 부분은 실제로 부딪혀보며 능력을 기르려고 합니다. 리더십을 기르기 위해 동아리, 프로젝트 리더를 맡았고, 협업 능력을 기르기 위해 공모전, 해커톤 등 많은 프로젝트에 참여했습니다.
+> - 부족한 부분은 실제로 부딪혀보며 능력을 기르려고 합니다. 리더십을 기르기 위해 동아리, 프로젝트 리더를 맡았고, 협업 능력을 기르기 위해 공모전, 해커톤 등 많은 프로젝트에 참여했습니다. -->
 
 <div align=center>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115&count_bg=%233DDC84&title_bg=%238DA497&icon=icloud.svg&icon_color=%23ECECEC&title=jmi&edge_flat=false"/></a>
@@ -20,16 +20,16 @@
 #### 🔥 Experience
 | Period | Description |
 | :------------ | :------------ |
-| `2020.05 ~ 2020.07` | 📝 경상대 창의동아리 Big D.T 운영 |
-| `2021.03 ~ 2022.06` | 🥼 경상대 컴퓨터공학과 인공지능 연구실(ML Lab) 학부 연구원 |
-| `2021.07 ~ 2021.12` | 👩🏻‍🏫 경상대 창의융합동아리 멘토 |
-| `2022.09 ~ 2023.02` | 🌐 [UMC](https://www.instagram.com/uni_makeus_challenge/) 3rd Android 파트 수료 |
-| `2023.03 ~ 2023.08` | 🌐 [UMC](https://www.instagram.com/uni_makeus_challenge/) 4th Server(Node.js) 파트 수료 |
-| `2023.09 ~ 2023.11` | 📊 [Remote Internship Program](https://drive.google.com/file/d/1m_KkLkfCKVomXTnvAhFiHLKjgv6UhJdf/view?usp=sharing) 4th Expert Track 수료 |
-| `2024.04 ~ 2024.11` | 👩🏻‍💻 [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th 수료 예정 |
+| 2020.05 ~ 2020.07 `3개월` | 📝 경상대 창의동아리 Big D.T 운영 |
+| 2021.03 ~ 2022.06 `1년 4개월` | 🥼 경상대 컴퓨터공학과 인공지능 연구실(ML Lab) 학부 연구원 |
+| 2021.07 ~ 2021.12 `6개월` | 👩🏻‍🏫 경상대 창의융합동아리 멘토 |
+| 2022.09 ~ 2023.02 `6개월` | 🌐 [UMC](https://www.instagram.com/uni_makeus_challenge/) 3rd Android 파트 수료 |
+| 2023.03 ~ 2023.08 `6개월` | 🌐 [UMC](https://www.instagram.com/uni_makeus_challenge/) 4th Server(Node.js) 파트 수료 |
+| 2023.09 ~ 2023.11 `3개월` | 📊 [Remote Internship Program](https://drive.google.com/file/d/1m_KkLkfCKVomXTnvAhFiHLKjgv6UhJdf/view?usp=sharing) 4th Expert Track 수료 |
+| 2024.04 ~ 2024.11 `8개월` | 👩🏻‍💻 [SW마에스트로](https://www.swmaestro.org/sw/main/main.do) 15th 수료 예정 |
 
 #### 🏆 Award
-| Year | Contest | | Award |
+| Year | Contest | Institution | Award |
 | :------------ | :------------ | :------------ | :------------ |
 | 2020 | 경상대 창의동아리 | 경상대학교 미래교육원 | **우수상** |
 | 2021 | 경상대 빅데이터 아이디어 공모전 | 빅데이터 공유대학사업단 | **장려상** |
@@ -69,11 +69,11 @@
 
 </div>
 
----
+<!-- ---
 <div align=center>
  <a href="https://github.com/jung0115/jung0115/blob/main/project/README.md">
   <img height="44px" src="https://github.com/user-attachments/assets/efd94023-a734-48c6-8811-ed7278869d9f"/>
  </a>
-</div>
+</div> -->
 
 <!--https://simpleicons.org/-->
