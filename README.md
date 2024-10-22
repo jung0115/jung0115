@@ -6,7 +6,7 @@
 > - SW 마에스트로 15기에서 '마이꾸미' Android 앱을 개발하며, Compose, MVVM, 클린 아키텍처, 멀티 모듈, DI, DeepLink 등의 기술을 적용했습니다.
 > - UMC 4기에서는 약 1개월 동안 Node.js를 이용한 API 개발을 공부하고, 시니어 맞춤 구인구직 웹의 백엔드 개발을 완수한 경험도 있습니다.
 ```
-🏫 Gyeongsang National University, Computer Science | 2020.03 ~ 2024.08
+🏫 Gyeongsang National University, Computer Science and Engineering | 2020.03 ~ 2024.08
 ```
 
 <div align=center>
