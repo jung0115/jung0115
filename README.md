@@ -1,12 +1,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=16de46&height=180&section=header&text=🍀%20Android%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36) -->
 
-### 🍀 조정미
+## 🍀 조정미
 > [!note]
-> - 빠르게 학습하고 도전하며 안드로이드 개발 역량을 쌓고 있습니다.
-> - SW 마에스트로 15기에서 '마이꾸미' Android 앱을 개발하며, Compose, MVVM, 클린 아키텍처, 멀티 모듈, DI, DeepLink 등의 기술을 적용했습니다.
-```
-🏫 Gyeongsang National University, Computer Science and Engineering | 2020.03 ~ 2024.08
-```
+> | Period | Description |
+> | :------------ | :--- |
+> | 2025.01 ~ | 🧡 Hanwha System ICT, Developer |
+> | 2020.03 ~ 2024.08 | 🏫 Gyeongsang National University, Computer Science and Engineering |
 
 <div align=center>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115&count_bg=%233DDC84&title_bg=%238DA497&icon=icloud.svg&icon_color=%23ECECEC&title=jmi&edge_flat=false"/></a>
@@ -48,6 +47,8 @@
 
 #### 🛠️ Skills
 <div align="left">
+
+<a href="https://learn.microsoft.com/ko-kr/dotnet/" target="_blank" style="text-decoration: none;" rel="noreferrer"> <img src="http://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt=".NET" height="24"/> </a> <!-- .NET -->
  
 <a href="https://developer.android.com" target="_blank" style="text-decoration: none;" rel="noreferrer"> <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="android" height="24"/> </a> <!-- 안드로이드 -->
 <a href="https://kotlinlang.org" target="_blank"  style="text-decoration: none;" rel="noreferrer"> <img src="http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" alt="kotlin" height="24"/> </a> <!-- Kotlin --> 
